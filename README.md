@@ -1,5 +1,7 @@
 # ast-function-tools
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/ast-function-tools.svg)](https://greenkeeper.io/)
+
 A collection of helpers for modifying AST nodes of function types. It is
 primarily targeted at generating instrumentation code, but feel free to open
 issues or PRs if you want it to do more.
